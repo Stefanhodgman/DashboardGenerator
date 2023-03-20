@@ -78,7 +78,6 @@ if selected_uri is None:
     print("No 'formtypelist' URI found in the workspace URIs.")
     sys.exit()
 
-
 # save the curl_cmd to a file
 with open("curl_cmd.XML", "w") as f:
     f.write(curl_cmd)
