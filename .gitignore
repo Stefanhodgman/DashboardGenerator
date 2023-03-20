@@ -1,0 +1,21 @@
+__pycache__/weekDashboardConverter.cpython-311.pyc
+__pycache__/userConfirmation.cpython-311.pyc
+__pycache__/formtypelist.cpython-311.pyc
+__pycache__/userLogon.cpython-311.pyc
+__pycache__/createFormMsg4.cpython-311.pyc
+**/__pycache__/
+encryption_key.key
+WorkspaceList.xml
+workspace_id.txt
+Week Dashboard_Converted.csv
+WBHO-WDB_Template.json
+SelectedURI.XML
+output.json
+FormTypeList.xml
+curl_cmd.XML
+credentials.enc
+ASessionID.txt
+app_builder_id.txt
+**/build/
+DashboardGenerator.spec
+AsiREST.spec
